@@ -855,3 +855,5 @@
 "Every saved connection is already in this project." = "Mọi kết nối đã lưu đều đã nằm trong dự án này.";
 "No connections assigned yet." = "Chưa gán kết nối nào.";
 "Remove from this project" = "Bỏ khỏi dự án này";
+
+"Connection settings" = "Cài đặt kết nối";
